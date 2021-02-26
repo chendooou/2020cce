@@ -27,6 +27,7 @@ int main()
 }
 ```
 
+
 ##第二個程式:讀入整數反序列印
 ```C
 #include <stdio.h>
