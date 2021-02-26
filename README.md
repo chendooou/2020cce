@@ -1,4 +1,7 @@
 # 2020cce
+這個是2020程式設計，要放的程式碼倉庫。
+
+##第一個程式
 ```C
 #include <stdio.h>
 int p1(int a,int b)
