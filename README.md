@@ -1,7 +1,7 @@
 # 2020cce
 這個是2020程式設計，要放的程式碼倉庫。
 
-##第一個程式:分式化簡
+## 第一個程式:分式化簡
 ```C
 #include <stdio.h>
 int p1(int a,int b)
@@ -27,7 +27,7 @@ int main()
 }
 ```
 
-##第二個程式:讀入整數反序列印
+## 第二個程式:讀入整數反序列印
 ```C
 #include <stdio.h>
 int a[10];
@@ -48,7 +48,7 @@ int main()
 }
 ```
 
-##第三個程式:A的B次方函數
+## 第三個程式:A的B次方函數
 ```C
 #include <stdio.h>
 int MYPOWER(int x,int y)
@@ -72,7 +72,7 @@ int main(void)
 }
 ```
 
-##第四個程式:漸增數列相加
+## 第四個程式:漸增數列相加
 ```C
 #include <stdio.h>
 int main()
@@ -90,7 +90,7 @@ int main()
 }
 ```
 
-##第五個程式:找零錢
+## 第五個程式:找零錢
 ```C
 #include <stdio.h>
 int main()
@@ -107,7 +107,7 @@ int main()
 }
 ```
 
-##第六個程式:因數個數
+## 第六個程式:因數個數
 ```C
 #include <stdio.h>
 int main()
@@ -123,7 +123,7 @@ int main()
 }
 ```
 
-##第七個程式:找倍數
+## 第七個程式:找倍數
 ```C
 #include <stdio.h>
 int main()
@@ -140,7 +140,7 @@ int main()
 }
 ```
 
-##第八個程式:整數轉換為等級
+## 第八個程式:整數轉換為等級
 ```C
 #include <stdio.h>
 int main()
