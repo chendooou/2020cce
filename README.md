@@ -154,4 +154,43 @@ int main()
 	else printf("F\n");	
 }
 ```
+## 第二週課堂課堂程式練習1
+```C
+#include <stdio.h>
+int main()
+{
+    int n1=10,n2=20,n3=30;
+    printf("n1:%d n2:%d n3:%d\n",n1,n2,n3);
+
+    int *p=&n1;
+    *p=200;
+    printf("n1:%d n2:%d n3:%d\n",n1,n2,n3);
+
+    return 0;
+}
+
+```
+
+## 第二週課堂課堂程式練習2
+```C
+#include <stdio.h>
+int main()
+{
+    int n1=10,n2=20,n3=30;
+    printf("n1:%d n2:%d n3:%d\n",n1,n2,n3);
+
+    int *p=&n1;
+    *p=200;
+    printf("n1:%d n2:%d n3:%d\n",n1,n2,n3);
+
+    int *p2=&n3;
+    *p=200;
+    printf("n1:%d n2:%d n3:%d\n",n1,n2,n3);
+
+    return 0;
+}
+
+
+
+```
 
