@@ -270,3 +270,8 @@ int main(){
     return 0;
 }
 ```
+## Processing 課堂練習
+```Processing
+size(1024,400);
+background(203,225,242);
+```
